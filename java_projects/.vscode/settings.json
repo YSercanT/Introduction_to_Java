@@ -1,0 +1,22 @@
+{
+    "java.project.sourcePaths": [
+        "9.Project3_SimpleCalculator",
+        "8.SwitchCase_Statement",
+        "7.if_else_Statement",
+        "6.Project2_Circumference_And_Area_of_Circle",
+        "5.Project1_GradeCalculator",
+        "4.GetDataWithConsole",
+        "3.Basic_Operators",
+        "2.Primitive_Data_Types",
+        "17.Project8_GCD_LCM",
+        "16.Project7_Fibonacci_Series",
+        "15.Project6_Armstrong_Numbers",
+        "14.Project5_PrimeNumbers",
+        "13.Break_And_Continue",
+        "12.For_Loops",
+        "11.While_DoWhile_Loops",
+        "10.Project4_Flight_Ticket_Price",
+        "1.HelloWorld",
+        "18.Functions"
+    ]
+}
